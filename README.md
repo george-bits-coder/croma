@@ -41,3 +41,5 @@ This is common throughout all the pages. Here user can follow website on social 
 
 Realtime deployment
 https://vasukomuravelli.github.io/croma/
+
+Personal contribution:worked on backend and homepage.

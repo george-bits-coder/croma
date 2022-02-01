@@ -40,6 +40,5 @@ This is common throughout all the pages. Here user can follow website on social 
 ![image](https://user-images.githubusercontent.com/91777048/140702491-616fd8ef-728b-4814-b42f-1ddf1f240ab7.png)
 
 Realtime deployment
-https://vasukomuravelli.github.io/croma/
-
+https://george-bits-coder.github.io/croma/
 Personal contribution:worked on backend and homepage.
